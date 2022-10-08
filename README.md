@@ -1,4 +1,4 @@
 # Haskell Games
-Games made using Haskell, a purely functional language
-- Tic-Tac-Toe
+Games made using Haskell, a purely functional programming language
+- Tic-Tac-Toe 
 - Connect Four
